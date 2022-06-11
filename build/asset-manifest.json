@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0dcc01fe.css",
+    "main.js": "/static/js/main.36e5f7b0.js",
+    "static/media/share.mp4": "/static/media/share.4334d3ba333b12793081.mp4",
+    "static/media/logo_car2go.png": "/static/media/logo_car2go.47fbbf66debe2814e04f.png",
+    "index.html": "/index.html",
+    "main.0dcc01fe.css.map": "/static/css/main.0dcc01fe.css.map",
+    "main.36e5f7b0.js.map": "/static/js/main.36e5f7b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dcc01fe.css",
+    "static/js/main.36e5f7b0.js"
+  ]
+}
