@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7ea07c3.css",
-    "main.js": "/static/js/main.819441b3.js",
+    "main.css": "/static/css/main.3c758b19.css",
+    "main.js": "/static/js/main.04b5dac1.js",
     "static/media/share.mp4": "/static/media/share.4334d3ba333b12793081.mp4",
     "static/media/logo.png": "/static/media/logo.edd369473ec50b94b724.png",
     "static/media/logo_car2go.png": "/static/media/logo_car2go.47fbbf66debe2814e04f.png",
     "index.html": "/index.html",
-    "main.a7ea07c3.css.map": "/static/css/main.a7ea07c3.css.map",
-    "main.819441b3.js.map": "/static/js/main.819441b3.js.map"
+    "main.3c758b19.css.map": "/static/css/main.3c758b19.css.map",
+    "main.04b5dac1.js.map": "/static/js/main.04b5dac1.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7ea07c3.css",
-    "static/js/main.819441b3.js"
+    "static/css/main.3c758b19.css",
+    "static/js/main.04b5dac1.js"
   ]
 }
